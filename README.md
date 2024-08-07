@@ -13,7 +13,7 @@ Requirements:
 - Make sure random image data has a huge variety of data more then 2000 faces
 - recomendation Random Faces images <= Your Faces Images (number of total images for balanced dataset)
 
-=====================================================================================================================================================================
+===================================================================================
 
 Faces:
 
