@@ -16,13 +16,10 @@ Requirements:
 
 Faces:
 
--This script first takes a random image and tests the haars casacade to see if it the script and dependencies are all functioning properly
-
--Next we prepare the dataset to train the Deep learning CNN model
-
--After that we make the model architecture and train the model on the prepared dataset
-
--Finally we test the model live to see how well it works
+- This script first takes a random image and tests the haars casacade to see if it the script and dependencies are all functioning properly
+- Next we prepare the dataset to train the Deep learning CNN model
+- After that we make the model architecture and train the model on the prepared dataset
+- Finally we test the model live to see how well it works
 
 Requirements:
 
